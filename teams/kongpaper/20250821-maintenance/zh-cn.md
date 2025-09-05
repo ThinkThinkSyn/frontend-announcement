@@ -2,8 +2,9 @@
 title: "维护通知"
 date: "2025-08-21"
 author: Harry
-keywords: maintenance
+keywords: ["maintenance", "system-update", "downtime"]
 level: "warning"
+summary: "计划维护正在进行中 - 某些功能可能暂时不可用。"
 ---
 
 维护正在进行中 — 某些功能可能暂时无法使用。我们为任何不便表示歉意。

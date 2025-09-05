@@ -2,8 +2,9 @@
 title: "Maintenance Notice"
 date: "2025-08-21"
 author: Harry
-keywords: maintenance
+keywords: ["maintenance", "system-update", "downtime"]
 level: "warning"
+summary: "Scheduled maintenance in progress - some features may be temporarily unavailable."
 ---
 
 Maintenance is in progress — some features may be temporarily unavailable. We apologize for any inconvenience.

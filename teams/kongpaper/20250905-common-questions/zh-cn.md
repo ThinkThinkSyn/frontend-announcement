@@ -2,8 +2,9 @@
 title: "常见问题"
 date: "2025-09-05"
 author: 92MING
-keywords: Q&A
+keywords: ["Q&A", "FAQ", "support"]
 level: "info"
+summary: "关于 KongPaper 功能、问题和即将推出功能的常见问题和解答。"
 ---
 
 自发布以来, KongPaper 收到了大量用户的反馈和问题。为了帮助大家更好地理解和使用 KongPaper，我们整理了一些常见问题及其解答。如果您有其他问题或建议，欢迎随时联系我们。

@@ -2,8 +2,9 @@
 title: "OCR System Maintenance Notice"
 date: "2025-09-05"
 author: 92MING
-keywords: maintenance
+keywords: ["maintenance", "OCR", "handwriting-recognition"]
 level: "info"
+summary: "OCR system upgrade in progress to improve Chinese and English handwriting recognition."
 ---
 
 ## OCR (Optical Character Recognition) System Maintenance Notice
