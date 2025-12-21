@@ -1,16 +1,34 @@
 # Frontend Announcement System
 
-## Announcement File Format
+## Structure
 
-Use this format when creating announcement files:
+Each announcement is organized in a folder containing:
+- `metadata.md` - Common metadata shared across all languages
+- `en.md` - English version with title and summary
+- `zh-cn.md` - Simplified Chinese version with title and summary
+- `zh-hk.md` - Traditional Chinese version with title and summary
+
+## File Format
+
+### metadata.md
+Common metadata for all language versions:
 
 ```markdown
 ---
-title: "Your Announcement Title"
 date: "YYYY-MM-DD"
 author: "Your name"
 keywords: ["keyword1", "keyword2"]
 level: "info" | "warning" | "error"
+banner: true | false
+---
+```
+
+### Language files (en.md, zh-cn.md, zh-hk.md)
+Language-specific content:
+
+```markdown
+---
+title: "Your Announcement Title"
 summary: "Brief summary of the announcement"
 ---
 
@@ -18,9 +36,10 @@ Your announcement content in markdown format...
 ```
 
 ### Fields:
-- **title**: Brief descriptive title
 - **date**: Publication date (YYYY-MM-DD format)
-- **author**: Your username/identifier
-- **keywords**: Comma-separated tags
+- **author**: Author username/identifier
+- **keywords**: Array of tags for categorization
 - **level**: Severity level (info, warning, error)
-- **summary**: Brief summary of the announcement less than 50 words
+- **banner**: Whether to display as a banner
+- **title**: Language-specific title
+- **summary**: Language-specific summary (less than 50 words)
