@@ -4,4 +4,5 @@ author: 92MING
 keywords: ["maintenance", "OCR", "handwriting-recognition"]
 level: "info"
 banner: true
+is_active: true
 ---
