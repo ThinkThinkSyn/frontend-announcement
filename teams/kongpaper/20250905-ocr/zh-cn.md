@@ -1,11 +1,6 @@
 ---
 title: "OCR系统维护通知"
-date: "2025-09-05"
-author: 92MING
-keywords: ["maintenance", "OCR", "handwriting-recognition"]
-level: "info"
 summary: "OCR系统升级中，以提升中英文手写体识别能力。"
-banner: true
 ---
 
 ## OCR(文字识别)系统维护通知

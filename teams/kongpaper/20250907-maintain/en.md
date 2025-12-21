@@ -1,11 +1,6 @@
 ---
 title: "System Maintenance Notice"
-date: "2025-09-07"
-author: 92MING
-keywords: ["maintenance"]
-level: "info"
 summary: "System Maintenance Notice"
-banner: false
 ---
 
 ## System Maintenance Notice

@@ -1,11 +1,6 @@
 ---
 title: "系統維護通知"
-date: "2025-09-07"
-author: 92MING
-keywords: ["maintenance"]
-level: "info"
 summary: "系統維護通知"
-banner: false
 ---
 
 ## 系統維護通知

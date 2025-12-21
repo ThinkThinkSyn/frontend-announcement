@@ -1,11 +1,6 @@
 ---
 title: "反饋請求"
-date: "2025-08-21"
-author: Harry
-keywords: ["feedback", "improvement"]
-level: "info"
 summary: "我們正在尋求用戶反饋以改進 Kong Paper 的功能和用戶體驗。"
-banner: true
 ---
 
 請給我們您的反饋。
