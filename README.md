@@ -20,6 +20,7 @@ author: "Your name"
 keywords: ["keyword1", "keyword2"]
 level: "info" | "warning" | "error"
 banner: true | false
+is_active: true | false
 ---
 ```
 
@@ -41,5 +42,6 @@ Your announcement content in markdown format...
 - **keywords**: Array of tags for categorization
 - **level**: Severity level (info, warning, error)
 - **banner**: Whether to display as a banner
+- **is_active**: Whether the announcement is currently active
 - **title**: Language-specific title
 - **summary**: Language-specific summary (less than 50 words)
