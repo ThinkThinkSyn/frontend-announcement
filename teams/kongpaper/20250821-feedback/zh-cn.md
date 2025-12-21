@@ -5,6 +5,7 @@ author: Harry
 keywords: ["feedback", "improvement"]
 level: "info"
 summary: "我们正在寻求用户反馈以改进 Kong Paper 的功能和用户体验。"
+banner: true
 ---
 
 请给我们您的反馈。

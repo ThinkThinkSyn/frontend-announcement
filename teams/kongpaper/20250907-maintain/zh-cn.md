@@ -5,6 +5,7 @@ author: 92MING
 keywords: ["maintenance"]
 level: "info"
 summary: "系统维护通知"
+banner: false
 ---
 
 ## 系统维护通知

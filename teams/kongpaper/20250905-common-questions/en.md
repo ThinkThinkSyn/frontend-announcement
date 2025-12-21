@@ -5,6 +5,7 @@ author: 92MING
 keywords: ["Q&A", "FAQ", "support"]
 level: "info"
 summary: "Common questions and answers about KongPaper features, issues, and upcoming developments."
+banner: true
 ---
 
 Since its launch, KongPaper has received a large amount of user feedback and questions. To help everyone better understand and use KongPaper, we have compiled some frequently asked questions and their answers. If you have other questions or suggestions, please feel free to contact us at any time.

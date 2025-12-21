@@ -5,6 +5,7 @@ author: Harry
 keywords: ["maintenance", "system-update", "downtime"]
 level: "warning"
 summary: "Scheduled maintenance in progress - some features may be temporarily unavailable."
+banner: true
 ---
 
 Maintenance is in progress — some features may be temporarily unavailable. We apologize for any inconvenience.

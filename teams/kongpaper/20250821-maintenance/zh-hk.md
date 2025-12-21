@@ -5,6 +5,7 @@ author: Harry
 keywords: ["maintenance", "system-update", "downtime"]
 level: "warning"
 summary: "計劃維護正在進行中 - 某些功能可能暫時不可用。"
+banner: true
 ---
 
 維護正在進行中 — 某些功能可能暫時無法使用。我們為任何不便表示歉意。

@@ -5,6 +5,7 @@ author: 92MING
 keywords: ["maintenance", "OCR", "handwriting-recognition"]
 level: "info"
 summary: "OCR system upgrade in progress to improve Chinese and English handwriting recognition."
+banner: true
 ---
 
 ## OCR (Optical Character Recognition) System Maintenance Notice

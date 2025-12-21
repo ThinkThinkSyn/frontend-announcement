@@ -5,6 +5,7 @@ author: 92MING
 keywords: ["maintenance", "OCR", "handwriting-recognition"]
 level: "info"
 summary: "OCR系統升級中，以提升中英文手寫體識別能力。"
+banner: true
 ---
 
 ## OCR(文字識別)系統維護通知
