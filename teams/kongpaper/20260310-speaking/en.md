@@ -2,7 +2,7 @@
 title: "English Speaking Mock Test Service Congestion Notice"
 date: "2026-03-10"
 author: 92MING
-keywords: ["speaking-test", "network", "congestion"]
+keywords: ["maintenance"]
 level: "warning"
 summary: "High traffic is causing frequent lag in the English Speaking Mock Test feature, and we are handling it urgently."
 ---

@@ -2,7 +2,7 @@
 title: "英语口语模拟试功能网络拥堵通知"
 date: "2026-03-10"
 author: 92MING
-keywords: ["speaking-test", "network", "congestion"]
+keywords: ["maintenance"]
 level: "warning"
 summary: "英语口语模拟试功能因访问量激增导致频繁卡顿，我们正紧急处理。"
 ---
