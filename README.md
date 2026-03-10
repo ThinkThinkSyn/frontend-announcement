@@ -6,7 +6,7 @@ Each announcement is organized in a folder containing:
 - `metadata.md` - Common metadata shared across all languages
 - `en.md` - English version with title and summary
 - `zh-cn.md` - Simplified Chinese version with title and summary
-- `zh-hk.md` - (Deprecated) Traditional Chinese version with title and summary
+- `zh-hk.md` - Traditional Chinese version with title and summary
 - `zh-tw.md` - Traditional Chinese version with title and summary.
 
 ## File Format
